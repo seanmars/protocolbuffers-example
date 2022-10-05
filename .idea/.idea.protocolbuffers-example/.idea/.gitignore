@@ -4,8 +4,8 @@
 # Rider ignored files
 /modules.xml
 /contentModel.xml
+/.idea.protocolbuffers-example.iml
 /projectSettingsUpdater.xml
-/.idea.protocolbuffers-sample.iml
 # Editor-based HTTP Client requests
 /httpRequests/
 # Datasource local storage ignored files
